@@ -1,0 +1,8 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore the 'data' folder
+data/
